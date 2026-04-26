@@ -346,7 +346,6 @@ var jxItem = {
             desc: '当前设置为: ' + mySet.cj + '\n存放路径: /rules/DuanNian/MyParse.json',
             col_type: 'text_center_1'
         });
-        splitLine('line_blank', 1);
     }
 };
 
