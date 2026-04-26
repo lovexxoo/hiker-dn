@@ -347,11 +347,6 @@ var jxItem = {
             col_type: 'text_center_1'
         });
         splitLine('line_blank', 1);
-        d.push({
-            title: '‘‘’’<big>操作指引',
-            url: typeof czGuide == 'function' ? czGuide() : '',
-            col_type: 'text_center_1',
-        });
     }
 };
 
