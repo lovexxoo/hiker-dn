@@ -1,7 +1,7 @@
 
 eval(fetch('hiker://files/cache/fileLinksᴰⁿ.txt'));
 var Route = {
-    jxLazy: "require('https://gitee.com/showgirl/hiker/raw/master/v/Route.js');aytmParse(input)",
+    jxLazy: "require('https://hk.gh-proxy.org/https://raw.githubusercontent.com/lovexxoo/hiker-dn/refs/heads/main/Route.js');aytmParse(input)",
     setParse: function() {
         eval(fetch('hiker://files/cache/fileLinksᴰⁿ.txt'));
         if (!getVar('jxItemV')) {
